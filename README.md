@@ -1,0 +1,2 @@
+# Magus
+Really awesome.
